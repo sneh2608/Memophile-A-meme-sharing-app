@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659502519125",
+    "firebase_url": "https://memophile-a-meme-sharing-app.firebaseio.com",
+    "project_id": "memophile-a-meme-sharing-app",
+    "storage_bucket": "memophile-a-meme-sharing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659502519125:android:3a65bd24fe14ce973515dc",
+        "android_client_info": {
+          "package_name": "com.developer.snehpallav.memophile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659502519125-jbl242emujnht7bpbd5rfqho4u93osir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMHcyFhgIn30Be-jVpDu4C5QekdgDN7d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659502519125-jbl242emujnht7bpbd5rfqho4u93osir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
