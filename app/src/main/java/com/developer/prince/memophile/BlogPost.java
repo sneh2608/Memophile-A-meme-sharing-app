@@ -1,4 +1,4 @@
-package com.developer.snehpallav.memophile;
+package com.developer.prince.memophile;
 
 
 import java.util.Date;

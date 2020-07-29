@@ -1,4 +1,4 @@
-package com.developer.snehpallav.memophile;
+package com.developer.prince.memophile;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -19,9 +19,9 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import com.developer.snehpallav.memophile.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
-import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.DocumentReference;

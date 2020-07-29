@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:tag="accountFragment"
     android:background="@android:color/white"
-    tools:context=".AccountFragment">
+    tools:context="com.developer.prince.memophile.AccountFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

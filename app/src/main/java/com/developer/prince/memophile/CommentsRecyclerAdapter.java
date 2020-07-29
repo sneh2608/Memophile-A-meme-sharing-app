@@ -1,4 +1,4 @@
-package com.developer.snehpallav.memophile;
+package com.developer.prince.memophile;
 
 import android.content.Context;
 
@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.developer.snehpallav.memophile.R;
 
 import java.util.List;
 

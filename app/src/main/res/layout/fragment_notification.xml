@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:tag="notificationFragment"
     android:background="@android:color/white"
-    tools:context=".NotificationFragment">
+    tools:context="com.developer.prince.memophile.NotificationFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

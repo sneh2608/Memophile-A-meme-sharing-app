@@ -1,4 +1,4 @@
-package com.developer.snehpallav.memophile;
+package com.developer.prince.memophile;
 
 import android.Manifest;
 import android.content.Intent;
@@ -23,6 +23,7 @@ import androidx.core.content.ContextCompat;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
+import com.developer.snehpallav.memophile.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
